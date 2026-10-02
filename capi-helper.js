@@ -21,7 +21,7 @@
   'use strict';
 
   // CAPI endpoint — update if you migrate this
-  const CAPI_ENDPOINT = 'https://ski-peripherals-watt-birmingham.trycloudflare.com/events';
+  const CAPI_ENDPOINT = 'https://browsandlips.ae/events';
 
   // Generate stable event_id (per session per conversion type)
   function getEventId(eventName) {
